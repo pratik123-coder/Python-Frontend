@@ -50,7 +50,7 @@ const teamMembers: TeamMember[] = [
     name: "Deeksha J",
     role: "Presentation & Documentation",
     imageUrl:
-      "https://res.cloudinary.com/de7hlbfce/image/upload/f_auto,q_auto/v1/RangeQI/About%20Us/Teams/v2kql2digr5naj2aj0qw",
+      "https://res.cloudinary.com/dajq9hekb/image/upload/v1732329314/Snapchat-1818754274_sftwnm.jpg",
     linkedinUrl: "https://linkedin.com/in/sabyasachi1",
   },
 ];
